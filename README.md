@@ -40,13 +40,13 @@ See [my website](https://shawncharles.com) for more information!
 
 <h1 align="center">Projects</h1>
 
-<img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif1.gif" size="(max-width: 500px) 100%, 50%" alt="Travel App"/>
+<img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif1.gif" size="(max-width: 500px) 50%" alt="Travel App"/>
 
-<img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif1.gif" size="(max-width: 500px) 100%, 50%" alt="Travel App"/>
+<img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif1.gif" size="(max-width: 500px) 50%" alt="Travel App"/>
 
-<img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif1.gif" size="(max-width: 500px) 100%, 50%" alt="Travel App"/>
+<img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif1.gif" size="(max-width: 500px) 50%" alt="Travel App"/>
 
-<img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif1.gif" size="(max-width: 500px) 100%, 50%" alt="Travel App"/>
+<img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif1.gif" size="(max-width: 500px) 50%" alt="Travel App"/>
 
 
 
