@@ -40,11 +40,14 @@ See [my website](https://shawncharles.com) for more information!
 
 <h1 align="center">Projects</h1>
 
+<img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif1.gif" size="(max-width: 500px) 100%, 50%" alt="Travel App"/>
 
-<section bordercolor="#66b2b2" width="50%" float="left">hi</section>
-<section bordercolor="#66b2b2" width="50%" float="left">hi</section>
-<section bordercolor="#66b2b2" width="50%" float="left">hi</section>
-<section bordercolor="#66b2b2" width="50%" float="left">hi</section>
+<img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif1.gif" size="(max-width: 500px) 100%, 50%" alt="Travel App"/>
+
+<img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif1.gif" size="(max-width: 500px) 100%, 50%" alt="Travel App"/>
+
+<img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif1.gif" size="(max-width: 500px) 100%, 50%" alt="Travel App"/>
+
 
 
 <table bordercolor="#66b2b2">
