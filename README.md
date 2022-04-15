@@ -64,7 +64,7 @@ See [my website](https://shawncharles.com) for more information!
       <h3 align="center">Rigley 2: "Flappy Bug"</h3>
         <br />
       <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-            <img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif1.gif" width="100%"  alt="Rigley 2"/>
+            <img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif2.gif" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
         <p align="center">
