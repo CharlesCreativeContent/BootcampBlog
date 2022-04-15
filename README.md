@@ -41,10 +41,10 @@ See [my website](https://shawncharles.com) for more information!
 <h1 align="center">Projects</h1>
 
 
-<section bordercolor="#66b2b2" width="50%" float="left"></section>
 <section bordercolor="#66b2b2" width="50%" float="left">hi</section>
 <section bordercolor="#66b2b2" width="50%" float="left">hi</section>
-<section bordercolor="#66b2b2" width="50%" float="left"></section>
+<section bordercolor="#66b2b2" width="50%" float="left">hi</section>
+<section bordercolor="#66b2b2" width="50%" float="left">hi</section>
 
 
 <table bordercolor="#66b2b2">
