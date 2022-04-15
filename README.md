@@ -39,6 +39,14 @@ See [my website](https://shawncharles.com) for more information!
 
 
 <h1 align="center">Projects</h1>
+
+
+<section style="border-color:#66b2b2;width:50%;float:left;"></section>
+<section style="border-color:#66b2b2;width:50%;float:left;">hi</section>
+<section style="border-color:#66b2b2;width:50%;float:left;">hi</section>
+<section style="border-color:#66b2b2;width:50%;float:left;"></section>
+
+
 <table bordercolor="#66b2b2">
   
   <tr>
