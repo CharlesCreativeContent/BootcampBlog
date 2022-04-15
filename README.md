@@ -46,7 +46,7 @@ See [my website](https://shawncharles.com) for more information!
       <h3 align="center">Travelara.org</h3>
         <br />
         <a target="_blank" href="http://travelara.herokuapp.com">
-            <img src="images/gif1.gif" width="100%" alt="Travel App"/>
+            <img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif1.gif" width="100%" alt="Travel App"/>
         </a>
         <br />
         <p align="center">
@@ -64,7 +64,7 @@ See [my website](https://shawncharles.com) for more information!
       <h3 align="center">Rigley 2: "Flappy Bug"</h3>
         <br />
       <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-            <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
+            <img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif1.gif" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
         <p align="center">
@@ -85,7 +85,7 @@ See [my website](https://shawncharles.com) for more information!
       <h3 align="center">ShawnCharles.com</h3>
       <br />
         <a target="_blank" href="https://shawncharles.com">
-          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+          <img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif4.gif" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
@@ -102,7 +102,7 @@ See [my website](https://shawncharles.com) for more information!
       <h3 align="center">Matching Cards</h3>
         <br />
         <a target="_blank" href="https://poke-matchcards.netlify.app/">
-          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
+          <img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif3.gif" width="100%" alt="Matching Cards"/>
         </a>
         <br />
         <p align="center">
