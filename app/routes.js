@@ -5,6 +5,7 @@ let BlogPosts = {
   "postname" : {
     "page": "how-to-break-into-tech",
     "title": "titlehere",
+    "keywords": "word, AnotherWord, More Words",
     "date": "Date",
     "image": "jpeg",
     "description": "blog",
@@ -15,7 +16,9 @@ let BlogPosts = {
     "how-to-break-into-tech" : {
       "page": "how-to-break-into-tech",
       "title": "How to Break Into Tech",
+    "keywords": "landing, creative, works, showcase, portfolio, projects, modern, agency, freelancers",
       "date": "January, Now",
+      "modified": "Now",
       "image": "jpeg",
       "description": "Awesome Blog teaching you how to break into tech",
       "author": "Shawn Charles",
