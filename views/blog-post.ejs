@@ -4,10 +4,84 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="format-detection" content="telephone=no">
-<title>Bootcamp 2 FAANG Blog - <%= title %></title>
+<title><%= title %></title>
 <meta name="author" content=<%= author %>>
 <meta name="description" content=<%= description %>>
-<meta name="keywords" content="landing, creative, works, showcase, portfolio, projects, modern, agency, freelancers">
+<meta name="keywords" content=<%= keywords %>>
+
+<!-- Linkedin Share Button -->
+
+<meta property="og:type" content="website">
+<meta property='og:title' content=<%= title %>/>
+<meta property='og:image' content=<%= `assets/images/${page}.${image}` %>/>
+<meta property='og:description' content=<%= description %>/>
+<meta property='og:url' content=<%= 'www.bootcamp2faang.com/'+ page %>/>
+
+ 
+<!-- TWITTER CARD -->
+    
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@BootcampToFAANG">
+<meta name="twitter:creator" content="@ShawnBasquiat">
+<meta name="twitter:title" content=<%= title %>>
+<meta name="twitter:description" content=<%= description %>>
+<meta name="twitter:image" content=<%= `"assets/images/${page}.${image}` %>>
+
+<!-- GOOGLE+ SEARCH CARD -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "url": "<%= 'www.bootcamp2faang.com/'+ page %>",
+      "image": "<%= `"assets/images/${page}.${image}` %>",
+      "headline": "<%= title %>"
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "lastReviewed": "2022-07-02T14:20:00-05:00"
+      },
+      "author":{
+      "@type": "Person",
+      "name": "Shawn Charles",
+      "jobTitle":"Software Engineer",
+      "hasOccupation": {
+      "@type": "Occupation",
+      "name": "Software Engineer",
+      "description": "Creates systems by designing, developing, and installing software solutions",
+      "estimatedSalary": [
+        {
+          "@type": "MonetaryAmountDistribution",
+          "name": "base",
+          "currency": "USD",
+          "duration": "P1Y",
+          "percentile10": "100000.5",
+          "percentile25": "115000",
+          "median": "130000.28",
+          "percentile75": "140000",
+          "percentile90": "160000"
+        }
+      ],
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "lastReviewed": "2022-07-02T14:20:00-05:00"
+      },
+      "occupationLocation": [
+        {
+          "@type": "City",
+          "name": "Boston"
+        }
+      ]
+      },
+      "image": "https://shawncharles.com/images/Headshot2.png",
+      "url": "https://shawncharles.com/",
+      "description": "Need help with your website, or Need a Web Developer or Software Engineer? Get in Touch Now!",
+      "sameAs": [
+      "https://linkedin.com/in/shawnxcharles",
+      "https://twitter.com/ShawnBasquiat",
+      "https://github.com/CharlesCreativeContent"]
+      },
+      "description": "<%= description %>",
+      "sameAs": "https://twitter.com/BootcampToFAANG"
+    }
 
 <!-- FAVICON FILES -->
 <link href="assets/images/icons/apple-touch-icon-144-precomposed.png" rel="apple-touch-icon" sizes="144x144">
@@ -16,13 +90,6 @@
 <link href="assets/images/icons/favicon.png" rel="shortcut icon">
 
 <script src="https://kit.fontawesome.com/170c91c28b.js" crossorigin="anonymous"></script>
-
-<!-- Linkedin Share Button -->
-
-<meta property='og:title' content=<%= title %>/>
-<meta property='og:image' content=<%= page +"." + image %>/>
-<meta property='og:description' content=<%= description %>/>
-<meta property='og:url' content=<%= 'www.bootcamp2faang.com/'+ page %>/>
 
 <!-- GOOGLE WEB FONT -->
 <link href="https://fonts.googleapis.com/css?family=Oxygen:300,400,700&display=swap" rel="stylesheet">
