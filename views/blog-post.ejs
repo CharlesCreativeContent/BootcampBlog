@@ -32,9 +32,9 @@
     {
       "@context": "https://schema.org",
       "@type": "Article",
-      "url": "<%- 'www.bootcamp2faang.com/'+ page %>",
-      "image": "<%- `https://bootcamp2faang.herokuapp.com/assets/images/${page}.${image}` %>",
-      "headline": "<%- title %>"
+      "url": "<%= 'www.bootcamp2faang.com/'+ page %>",
+      "image": "<%= `https://bootcamp2faang.herokuapp.com/assets/images/${page}.${image}` %>",
+      "headline": "<%= title %>",
       "mainEntityOfPage": {
         "@type": "WebPage",
         "lastReviewed": "2022-07-02T14:20:00-05:00"
@@ -79,7 +79,7 @@
       "https://twitter.com/ShawnBasquiat",
       "https://github.com/CharlesCreativeContent"]
       },
-      "description": "<%- description %>",
+      "description": "<%= description %>",
       "sameAs": "https://twitter.com/BootcampToFAANG"
     }
 
